@@ -365,7 +365,7 @@
         "Tools.AvatarCreator": "Avatar Creator",
         "Tools.FullBodyCalibrator": "Full Body / Avatar Calibrator",
         "Tools.CameraStreaming": "Camera / Streaming",
-        "Tools.CreateNewWorld": "Create New World",
+        "Tools.CreateNewWorld": "ma li sin",
         "Tools.Debug": "Debug",
         "Tools.StreamAudio": "Stream Audio",
         "Tools.Setup2FA": "Setup 2FA",
@@ -720,7 +720,7 @@
         "Tooltips.Brush.IncrementSize": "Increment Size",
         "Tooltips.Brush.DecrementSize": "Decrement Size",
 
-        "Tooltips.Dev.CreateNew": "Create New...",
+        "Tooltips.Dev.CreateNew": "sin",
         "Tooltips.Dev.Selection": "Selection: {mode}",
         "Tooltips.Dev.DevMode.Off": "Developer Mode: Off",
         "Tooltips.Dev.DevMode.On": "Developer Mode: On",
@@ -781,7 +781,7 @@
         "Tooltip.Material.Edit": "Edit Material",
         "Tooltip.Material.Convert": "Convert to...",
         "Tooltip.Material.ConvertAll": "Convert All to...",
-        "Tooltip.Material.CreateNew": "Create New",
+        "Tooltip.Material.CreateNew": "sin",
 
         "Tooltip.Mesh.Edit": "Edit Mesh",
 
@@ -894,7 +894,7 @@
 
         "CreateNew.Materials": "Materials",
 
-        "CreateNew.Directory.Title": "Create new directory:",
+        "CreateNew.Directory.Title": "poki li sin",
         "CreateNew.Directory.Error.EmptyName": "Please provide a name:",
         "CreateNew.Directory.Error.LongName": "Name is too long:",
         "CreateNew.Directory.Error.InvalidName": "Invalid name:",
@@ -2201,7 +2201,7 @@
 
         "WorkerInspector.Title": "{name} Inspector",
 
-        "CreateNew.Title": "New",
+        "CreateNew.Title": "sin",
 
         "Wizard.General.ProcessRoot": "Process Root:",
         "Wizard.General.Result": "Result:",
@@ -2666,10 +2666,10 @@
         "Hints.Sundial.Teleporter": "Press this button to activate the Teleporter to your Cloud Home!",
         "Hints.Sundial.TeleporterExtra": "Enjoy your home and thanks for stopping by!",
 
-        "UI.TextDisplay.Landscape": "Landscape",
-        "UI.TextDisplay.Portrait": "Portrait",
-        "UI.TextDisplay.NormalText": "Normal",
-        "UI.TextDisplay.MonospaceText": "Monospace",
+        "UI.TextDisplay.Landscape": "sitelen ma",
+        "UI.TextDisplay.Portrait": "sitelen jan",
+        "UI.TextDisplay.NormalText": "nimi",
+        "UI.TextDisplay.MonospaceText": "nimi sama",
 
         "UI.DocumentDisplay.PageNumber": "Page {page_number}",
         "UI.DocumentDisplay.DocumentQuality": "Quality",
@@ -2719,13 +2719,13 @@
         "Tools.Names.ManipulationTools": "Manipulation Tools",
         "Tools.Names.InformationTools": "Information Tools",
 
-        "Tools.Names.GeometryLineBrush": "Geometry Line Brush Tool",
-        "Tools.Names.Developer": "Developer Tool",
+        "Tools.Names.GeometryLineBrush": "ilo sitelen",
+        "Tools.Names.Developer": "ilo sona",
         "Tools.Names.ComponentClone": "Component Clone Tool",
-        "Tools.Names.ProtoFlux": "ProtoFlux Tool",
-        "Tools.Names.Material": "Material Tool",
+        "Tools.Names.ProtoFlux": "ilo nanpa",
+        "Tools.Names.Material": "ilo ma",
         "Tools.Names.Glue": "Glue Tool",
-        "Tools.Names.Light": "Light Tool",
+        "Tools.Names.Light": "ilo suno",
         "Tools.Names.Shape": "Shape Tool",
         "Tools.Names.Microphone": "Microphone Tool",
         "Tools.Names.GrabbableSetter": "Grabbable Setter Tool",
@@ -2746,6 +2746,6 @@
         "Discord.RichPresence.PublicWorldDetails": "{worldName} ({totalWorlds} worlds)",
         "Discord.RichPresence.InPublicLargeText": "In public ({version})",
 
-        "Dummy": "Dummy"
+        "Dummy": "nasa"
     }
 }

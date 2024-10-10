@@ -37,7 +37,7 @@
         "General.Notice": "Notice",
         "General.UnderstandEnable": "I understand, Enable",
         "General.Dismiss": "Dismiss",
-        "General.Edit": "Edit",
+        "General.Edit": "ante",
 
         "General.UI.SearchPrompt": "Search...",
         "General.UI.SearchPromptLong": "Type to search...",
@@ -58,16 +58,16 @@
         "General.Units.Metric": "Metric",
         "General.Units.Imperial": "Imperial",
 
-        "Worlds.Home": "Home",
-        "Worlds.Tutorial": "Tutorial",
+        "Worlds.Home": "tomo",
+        "Worlds.Tutorial": "ma sona",
 
         "Locomotion.Noclip.Name": "Noclip",
         "Locomotion.Noclip.Description": "Simple no-clip flying mode, ideal for editing.",
         "Locomotion.Teleport.Name": "Teleport",
         "Locomotion.Teleport.Description": "Uses ballistic path teleport, for comfortable locomotion.",
-        "Locomotion.Fly.Name": "Fly",
+        "Locomotion.Fly.Name": "tawa sewi",
         "Locomotion.Fly.Description": "Physical Fly Mode",
-        "Locomotion.WalkRun.Name": "Walk/Run",
+        "Locomotion.WalkRun.Name": "tawa ma",
         "Locomotion.WalkRun.Description": "Physical walking, running and jumping.",
         "Locomotion.WalkRunGripping.Name": "Walk/Run (with climbing)",
         "Locomotion.WalkRunGripping.Description": "Physical walking, running, jumping and climbing.",
@@ -79,7 +79,7 @@
         "Locomotion.Slide.Description": "Simple Sliding locomotion that snaps to surface if present, flying otherwise.",
 
         "Interaction.Destroy": "pakala",
-        "Interaction.Duplicate": "sama li sin",
+        "Interaction.Duplicate": "namako sama",
         "Interaction.SaveToInventory": "poki li pana",
         "Interaction.SaveToInventory.NotLoggedIn": "You must be logged in to save items.",
         "Interaction.SaveToInventory.NoWritePermission": "Cannot save to current inventory folder.",
@@ -87,8 +87,8 @@
         "Interaction.Redo": "Redo",
         "Interaction.EquipTool": "ilo li jo",
         "Interaction.DequipTool": "ilo li weka",
-        "Interaction.ScalingEnabled": "sulu lon",
-        "Interaction.ScalingDisabled": "suli ala",
+        "Interaction.ScalingEnabled": "suli li lon",
+        "Interaction.ScalingDisabled": "suli li ala",
         "Interaction.ResetScale": "suli li weka",
         "Interaction.LaserEnabled": "palisa suno li lon",
         "Interaction.LaserDisabled": "palisa suno li ala",
@@ -96,8 +96,8 @@
         "Interaction.Grab.Precision": "Grab: Precision",
         "Interaction.Grab.Auto": "Grab: Auto",
         "Interaction.Grab.Off": "Grab: Laser Only",
-        "Interaction.Locomotion": "tawa",
-        "Interaction.Locomotion.None": "None",
+        "Interaction.Locomotion": "tawa mi",
+        "Interaction.Locomotion.None": "ala",
 
         "Interaction.NamedEquipTool": "{name} li jo",
         "Interaction.NamedEquipTool.Default": "ilo",
@@ -140,7 +140,7 @@
         "Inventory.SpawnFacet": "Spawn Facet",
 
         "Dash.Screens.Home": "tomo",
-        "Dash.Screens.Worlds": "ma",
+        "Dash.Screens.Worlds": "<nobr>ma ale<nobr>",
         "Dash.Screens.Contacts": "<nobr>jan pona</nobr>",
         "Dash.Screens.Inventory": "poki",
         "Dash.Screens.Desktop": "<nobr>ilo sejelo</nobr>",
@@ -724,7 +724,7 @@
         "Tooltips.Dev.Selection": "Selection: {mode}",
         "Tooltips.Dev.DevMode.Off": "Developer Mode: Off",
         "Tooltips.Dev.DevMode.On": "Developer Mode: On",
-        "Tooltips.Dev.OpenInspector": "lipu sona li open",
+        "Tooltips.Dev.OpenInspector": "lipu ale li open",
         "Tooltips.Dev.DeselectAll": "Deselect All",
         "Tooltips.Dev.DestroySelected": "Destroy Selected",
         "Tooltips.Dev.ConfirmDestroySelected": "REALLY Destroy Selected",
@@ -835,7 +835,7 @@
         "ProtoFlux.UI.NodeBrowser.Title": "ProtoFlux Nodes",
 
         "CreateNew.Back": "<<< <i>Back</i>",
-        "CreateNew.EmptyObject": "Empty Object",
+        "CreateNew.EmptyObject": "ijo ala",
         "CreateNew.ParticleSystem": "Particle System",
 
         "CreateNew.Object": "Object",
@@ -1910,8 +1910,8 @@
         "ComponentSelector.CustomGenericArguments": "Custom Generic Arguments:",
         "ComponentSelector.InvalidType": "Invalid type",
 
-        "Inspector.Title": "lipu sona",
-        "Inspector.Slot.AttachComponent": "Attach Component",
+        "Inspector.Title": "lipu ale",
+        "Inspector.Slot.AttachComponent": "namako ilo",
 
         "Inspector.Slot.Axis.X": "X: <b>+</b>Right <b>-</b>Left",
         "Inspector.Slot.Axis.Y": "Y: <b>+</b>Up <b>-</b>Down",
@@ -2362,7 +2362,7 @@
         "Exiting.Exiting": "Exiting...",
         "Exiting.LoggingOut": "Logging out...",
 
-        "Migration.Title": "tawa",
+        "Migration.Title": "<nobr>REPLACE ME</nobr>",
         "Migration.NewTask": "New Migration Task",
 
         "Migration.LoginModal.Title": "Migrate data?",

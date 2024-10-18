@@ -1,6 +1,6 @@
 {
     "localeCode": "tok",
-    "authors": ["ScrapSavage", "Cyro"],
+    "authors": ["ScrapSavage", "Cyro", "Lallander"],
     "messages": {
 
         "General.OK": "pona",
@@ -55,13 +55,13 @@
         "General.Sort.Ascending": "Ascending",
         "General.Sort.Descending": "Descending",
 
-        "General.Units.Metric": "Metric",
-        "General.Units.Imperial": "Imperial",
+        "General.Units.Metric": "nanpa li nasin sona",
+        "General.Units.Imperial": "nanpa li nasin lawa",
 
         "Worlds.Home": "tomo",
         "Worlds.Tutorial": "ma sona",
 
-        "Locomotion.Noclip.Name": "Noclip",
+        "Locomotion.Noclip.Name": "tawa li luka ala",
         "Locomotion.Noclip.Description": "Simple no-clip flying mode, ideal for editing.",
         "Locomotion.Teleport.Name": "Teleport",
         "Locomotion.Teleport.Description": "Uses ballistic path teleport, for comfortable locomotion.",
